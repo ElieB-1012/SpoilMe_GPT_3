@@ -10,7 +10,7 @@ To achieve this goal, I used the GPT-3 artificial intelligence model, a trendy t
   <img src="SpoilMe app.png" width="400" height="400">
 </p>
 
-##Worklow
+## Worklow
 
 <p align="center">
   <img src="Workflow.png" width="800" height="400">
