@@ -7,3 +7,7 @@ To achieve this goal, I used the GPT-3 artificial intelligence model, a trendy t
 ## App Picture
 
 ![App Screenshot](https://github.com/ElieB-1012/SpoilMe_GPT_3/blob/master/SpoilMe%20app.png)
+
+## Workflow to create the model
+
+
