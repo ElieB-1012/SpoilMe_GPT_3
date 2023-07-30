@@ -10,6 +10,10 @@ To achieve this goal, I used the GPT-3 artificial intelligence model, a trendy t
   <img src="SpoilMe app.png" width="400" height="400">
 </p>
 
+## Creation of Dataset
+
+Despite conducting an extensive search for a suitable dataset, I was unable to find one that met my project's needs. This prompted me to make the decision to create my own dataset. During my search, I came across a website called 'MoviePooper,' which offers spoilers for a wide range of movies. Since the data on this website was not available through an API, I opted to perform data scraping using Octoparse to extract the required information. To enrich my dataset further, I merged it with a second dataset that I found on Kaggle, containing synopses for 1700 movies.
+
 ## Worklow
 
 <p align="center">
