@@ -10,4 +10,6 @@ To achieve this goal, I used the GPT-3 artificial intelligence model, a trendy t
 
 ## Workflow to create the model
 
+![App Screenshot](https://github.com/ElieB-1012/SpoilMe_GPT_3/blob/master/Workflow to create model%20app.png)
+
 
