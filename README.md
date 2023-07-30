@@ -6,7 +6,7 @@ To achieve this goal, I used the GPT-3 artificial intelligence model, a trendy t
 
 ## App Picture
 
-<img src="Workflow_model.png" width="400" height="400">
+<img src="SpoilMe app.png" width="400" height="400">
 
 ## Workflow to create the model
 
