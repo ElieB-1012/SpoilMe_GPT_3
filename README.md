@@ -6,10 +6,16 @@ To achieve this goal, I used the GPT-3 artificial intelligence model, a trendy t
 
 ## App Picture
 
-<img src="SpoilMe app.png" width="400" height="400">
+<p align="center">
+  <img src="SpoilMe app.png" width="400" height="400">
+</p>
+
 
 ## Workflow to create the model
 
-<img src="Workflow_model.png" width="400" height="400">
+<p align="center">
+  <img src="Workflow_model.png" width="400" height="400">
+</p>
+
 
 
