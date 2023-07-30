@@ -13,7 +13,7 @@ To achieve this goal, I used the GPT-3 artificial intelligence model, a trendy t
 ##Worklow
 
 <p align="center">
-  <img src="Workflow.png" width="400" height="400">
+  <img src="Workflow.png" width="800" height="400">
 </p>
 
 ## Workflow to create the model
