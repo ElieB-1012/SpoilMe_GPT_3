@@ -10,6 +10,6 @@ To achieve this goal, I used the GPT-3 artificial intelligence model, a trendy t
 
 ## Workflow to create the model
 
-![App Screenshot]()
+![App Screenshot](Workflow_model.png)
 
 
